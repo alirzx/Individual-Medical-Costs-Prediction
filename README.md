@@ -120,3 +120,4 @@ Smoking status (smoker_yes)
 BMI
 
 Age
+![Insurance Cost Regressors Results](https://raw.githubusercontent.com/alirzx/Individual-Medical-Costs-Prediction/main/insurance%20cost%20regressors%20result.PNG)
